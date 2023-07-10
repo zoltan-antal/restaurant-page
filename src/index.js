@@ -12,4 +12,4 @@ const contactButton = document.querySelector("#contact-button");
 
 homeButton.addEventListener("click", renderHome);
 menuButton.addEventListener("click", renderMenu);
-// contactButton.addEventListener("click", renderContact);
+contactButton.addEventListener("click", renderContact);
